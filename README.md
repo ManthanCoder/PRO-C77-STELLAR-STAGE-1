@@ -1,1 +1,2 @@
-# PRO-C77-STELLAR-STAGE-1
+# ISS-Tracker-1-Teacher-Ref
+Reference code for C76
